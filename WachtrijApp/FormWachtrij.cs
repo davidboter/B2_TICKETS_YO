@@ -60,42 +60,42 @@ namespace WachtrijApp
             {
                 return Wachttijd;
             }
-            Wachttijd += 5;
+            Wachttijd += 4;
 
             string node04 = doc.DocumentElement.SelectSingleNode("/Sensoren/Sensor04").InnerText;
             if (node04 == "False")
             {
                 return Wachttijd;
             }
-            Wachttijd += 5;
+            Wachttijd += 4;
 
             string node05 = doc.DocumentElement.SelectSingleNode("/Sensoren/Sensor05").InnerText;
             if (node05 == "False")
             {
                 return Wachttijd;
             }
-            Wachttijd += 5;
+            Wachttijd += 4;
 
             string node06 = doc.DocumentElement.SelectSingleNode("/Sensoren/Sensor06").InnerText;
             if (node06 == "False")
             {
                 return Wachttijd;
             }
-            Wachttijd += 5;
+            Wachttijd += 4;
 
             string node07 = doc.DocumentElement.SelectSingleNode("/Sensoren/Sensor07").InnerText;
             if (node07 == "False")
             {
                 return Wachttijd;
             }
-            Wachttijd += 5;
+            Wachttijd += 4;
 
             string node08 = doc.DocumentElement.SelectSingleNode("/Sensoren/Sensor08").InnerText;
             if (node08 == "False")
             {
                 return Wachttijd;
             }
-            Wachttijd += 5;
+            Wachttijd += 4;
 
             return Wachttijd;
         }
@@ -116,6 +116,10 @@ namespace WachtrijApp
             string node2 = doc.DocumentElement.SelectSingleNode("/Status/Kar02").InnerText;
             string status2 = ConvertStatus(node2);
             this.labelKar2.Text = $"Kar 2: {status2}";
+
+            string node3 = doc.DocumentElement.SelectSingleNode("/Status/Kar03").InnerText;
+            string status3 = ConvertStatus(node3);
+            this.labelKar3.Text = $"Kar 3: {status3}";
         }
 
         //  Een methode welke een status-code omzet naar een status-beschrijving
@@ -142,6 +146,11 @@ namespace WachtrijApp
             }
 
             return "";
+        }
+
+        private void FormWachtrij_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
