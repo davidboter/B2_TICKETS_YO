@@ -71,7 +71,7 @@
             // AttractieLogo
             // 
             this.AttractieLogo.ErrorImage = null;
-            this.AttractieLogo.Image = ((System.Drawing.Image)(resources.GetObject("AttractieLogo.Image")));
+            this.AttractieLogo.Image = global::WachtrijApp.Properties.Resources.Hero05;
             this.AttractieLogo.Location = new System.Drawing.Point(168, 87);
             this.AttractieLogo.Name = "AttractieLogo";
             this.AttractieLogo.Size = new System.Drawing.Size(110, 141);
