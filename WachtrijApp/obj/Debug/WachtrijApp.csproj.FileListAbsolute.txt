@@ -10,3 +10,15 @@ C:\git\WachtrijApp\WachtrijApp\obj\Debug\WachtrijApp.csproj.GenerateResource.cac
 C:\git\WachtrijApp\WachtrijApp\obj\Debug\WachtrijApp.csproj.CoreCompileInputs.cache
 C:\git\WachtrijApp\WachtrijApp\obj\Debug\WachtrijApp.exe
 C:\git\WachtrijApp\WachtrijApp\obj\Debug\WachtrijApp.pdb
+E:\yo\xampp\htdocs\B2_TICKETS_YO\WachtrijApp\bin\Debug\SensorData\AttractieStatus.xml
+E:\yo\xampp\htdocs\B2_TICKETS_YO\WachtrijApp\bin\Debug\SensorData\WachtrijSensoren.xml
+E:\yo\xampp\htdocs\B2_TICKETS_YO\WachtrijApp\bin\Debug\WachtrijApp.exe.config
+E:\yo\xampp\htdocs\B2_TICKETS_YO\WachtrijApp\bin\Debug\WachtrijApp.exe
+E:\yo\xampp\htdocs\B2_TICKETS_YO\WachtrijApp\bin\Debug\WachtrijApp.pdb
+E:\yo\xampp\htdocs\B2_TICKETS_YO\WachtrijApp\obj\Debug\WachtrijApp.csprojAssemblyReference.cache
+E:\yo\xampp\htdocs\B2_TICKETS_YO\WachtrijApp\obj\Debug\WachtrijApp.FormWachtrij.resources
+E:\yo\xampp\htdocs\B2_TICKETS_YO\WachtrijApp\obj\Debug\WachtrijApp.Properties.Resources.resources
+E:\yo\xampp\htdocs\B2_TICKETS_YO\WachtrijApp\obj\Debug\WachtrijApp.csproj.GenerateResource.cache
+E:\yo\xampp\htdocs\B2_TICKETS_YO\WachtrijApp\obj\Debug\WachtrijApp.csproj.CoreCompileInputs.cache
+E:\yo\xampp\htdocs\B2_TICKETS_YO\WachtrijApp\obj\Debug\WachtrijApp.exe
+E:\yo\xampp\htdocs\B2_TICKETS_YO\WachtrijApp\obj\Debug\WachtrijApp.pdb
